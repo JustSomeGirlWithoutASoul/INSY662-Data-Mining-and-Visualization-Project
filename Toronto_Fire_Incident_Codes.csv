@@ -1,0 +1,72 @@
+Code,Description
+FII,Fire - Industrial Incident
+PA,Public Assistance
+VEFH,Vehicle Fire
+FIR,Fire
+FIHR,Fire - High-Rise
+FAHR,Fire Alarm - High-Rise
+FISD,Fire - Inside
+FIHV,Fire - High-Rise Vehicle
+FICI,Fire - Chimney
+FIHRD,Fire - High-Rise Dwelling
+FIHCD,Fire - High-Rise Commercial
+FIWMI,Fire - Working Multiple-Unit Industrial
+FIO,Fire - Outside
+WDH,Water Damage Hazard
+FIID,Fire - Industrial Dwelling
+VEFU,Vehicle Fire - Under Control
+FIS,Fire - School
+FAHRD,Fire Alarm - High-Rise Dwelling
+FAHCD,Fire Alarm - High-Rise Commercial
+CC,Carbon Monoxide
+FAR,Fire Alarm Residential
+VEAF,Vehicle Fire - Aircraft
+FIIS,Fire - Industrial Structure
+FITP,Fire - Transit Property
+VEPI,Vehicle Fire - Passenger
+FIHC,Fire - Hazardous Commercial
+FAIS,Fire Alarm - Industrial Structure
+FACI,Fire Alarm - Commercial Industrial
+VEATH,Vehicle Fire - Threat to Health
+VEPIH,Vehicle Fire - Passenger Incident High-Rise
+VEAT,Vehicle Fire - At Transit
+MEO,Medical Emergency - Other
+COM,Commercial
+FAI,Fire Alarm - Industrial
+CONM,Construction/Maintenance Incident
+MEPI,Medical Emergency - Passenger Incident
+CCA,Carbon Monoxide Alarm
+FIOS,Fire - Outside Structure
+HAZ1,Hazardous Materials Level 1
+NGASFI,Natural Gas Fire
+METB,Medical Emergency - Tuberculosis
+FACC,Fire Alarm Commercial
+ISFI,Industrial Structure Fire
+FIW,Fire - Water
+PUB,Public Assistance
+FAHC,Fire Alarm - Hazardous Commercial
+NGASLK,Natural Gas Leak
+LKFI,Leak Fire
+VEFHE,Vehicle Fire - Hazardous Equipment
+HAZ2,Hazardous Materials Level 2
+REHL,Residential Elevator Hazard
+FAID,Fire Alarm - Industrial Dwelling
+ISFA,Industrial Fire Alarm
+FAS,Fire Alarm System
+WAT,Water Incident
+FAWMI,Fire Alarm - Working Multiple-Unit Industrial
+MESC,Medical Emergency - Suspicious Condition
+MEU,Medical Emergency - Unknown
+MECR,Medical Emergency - Critical Incident
+MECC,Medical Emergency - Cardiac Condition
+Medical - VSA,Medical Emergency - VSA (Vital Signs Absent)
+FASS,Fire Alarm System - Special Structure
+FIHCN,Fire - Hazardous Commercial Notified
+FIU,Fire Investigation Unit
+VEFMV,Vehicle Fire - Major Vehicle
+MEA,Medical Emergency - Aircraft
+CCNE,Carbon Monoxide Notification
+FIHRN,Fire - High-Rise Nursing Home
+FAHRN,Fire Alarm - High-Rise Nursing Home
+WAT1,Water Incident - Category 1
+VEFNG,Vehicle Fire - Natural Gas Vehicle
